@@ -1,6 +1,6 @@
 # California Housing Price Prediction 🏡
 ## Live Demo
-🔗 https://your-streamlit-app-url.streamlit.app
+🔗 https://housing-prediction-ml.streamlit.app/
 
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/9f3e493c-e7c0-47e5-bb9f-185975373287" />
 
